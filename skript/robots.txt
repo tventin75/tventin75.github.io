@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /faq.php
+Disallow: /about.php
+Disallow: /contacts.php
+Disallow: /rules.php
+Disallow: /adv.php
+Disallow: /login.php
+Disallow: /signup.php
+Disallow: /newadv.php
+Disallow: /recovery.php
+
